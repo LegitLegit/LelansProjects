@@ -1,4 +1,4 @@
-##Wlecome to Lelan's Projects!
+##Welcome to Lelan's Projects!
 
-##Bold## Switch Vr add-on
+Switch Vr add-on
 
